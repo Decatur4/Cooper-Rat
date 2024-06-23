@@ -50,3 +50,4 @@ username: admin <br>
 password: admin
 
 # PRO version
+## Coming soon
