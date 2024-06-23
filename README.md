@@ -43,7 +43,7 @@
 
 5. Run server `node index.js`
 
-6. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network , check below for demo to setup haxRAT with PORTMAP.)
+6. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password
 
 ### For default PASSWORD 
 username: admin <br>
