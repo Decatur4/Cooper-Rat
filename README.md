@@ -50,4 +50,29 @@ username: admin <br>
 password: admin
 
 # PRO version
-## Coming soon
+## setup on cloud
+## No port forwarding needed
+
+- Real time
+- Live Screen Control
+- Advance Keylogger
+- Screenshot
+- vibrate
+- Live location
+- SMS
+- notification reader
+- contacts
+- Call Log
+- Lock Victims Device with 6 digit Pin Code
+- microphone Record Audio
+- capture main and front camera
+- live camera
+- injection
+- Encrypt/ Decrypt all file AES Encryption 256 bit
+- Admin Permission
+- Account Manager
+- Text To Speech
+- Turn On/Off Torch
+- Change Wallpaper
+- File Manager Download/Upload
+- Undetectable by antivirus
