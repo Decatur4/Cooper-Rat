@@ -34,6 +34,13 @@
 
 # Installation
 
+ <ul>
+  <li><a href="https://render.com/" style="color: #B10DC9;">render.com {reccomended}</a></li>
+    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
+    <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
+    <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
+  </ul>
+
 ### For Termux Users
 1. Install NodeJs `apt install nodejs`
 
