@@ -88,3 +88,5 @@ password: admin
 - Change Wallpaper
 - File Manager Download/Upload
 - Undetectable by antivirus
+
+  
